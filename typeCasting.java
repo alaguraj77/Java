@@ -7,4 +7,4 @@ System.out.println("float :"+a);
 int b=(int)a;
 System.out.println("float :"+b);
 }
-}`
+}
